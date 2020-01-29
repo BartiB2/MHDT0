@@ -1,0 +1,48 @@
+P'(\mu)
+
+
+H_{\beta\delta\rho}\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}u_{\alpha\lambda}{}_{;\gamma}
+
+\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}u_{\delta\rho}{}_{;\beta}u_{\alpha\lambda}{}_{;\gamma}
+
+\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}u_{\alpha\lambda}{}_{;\gamma}u_{\beta\rho}{}_{;\delta}
+
+u^{\alpha\beta}\Pi^{\gamma\delta}u_{\alpha\gamma}{}_{;\beta}{}_{;\delta}
+
+R_{\alpha\gamma\beta\delta}u^{\alpha\beta}u^{\gamma\delta}
+
+H_{\alpha\gamma\lambda}H_{\beta\delta\rho}\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}
+
+u^{\alpha\beta}u^{\gamma\delta}\Pi^{\lambda\rho}u_{\alpha\lambda}{}_{;\beta}u_{\gamma\rho}{}_{;\delta}
+
+\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}u_{\alpha\lambda}{}_{;\beta}u_{\gamma\rho}{}_{;\delta}
+
+R_{\alpha\gamma\beta\delta}\Pi^{\alpha\beta}\omega^{\gamma\delta}
+
+u^{\alpha\beta}u^{\gamma\delta}\Pi^{\lambda\rho}u_{\delta\rho}{}_{;\beta}u_{\alpha\lambda}{}_{;\gamma}
+
+R_{\alpha\gamma\beta\delta}\Pi^{\alpha\beta}\Pi^{\gamma\delta}
+
+
+
+\beta_2'(\mu)+2 \alpha(\mu)
+
+-\frac{1}{2} \beta_2(\mu)-\frac{1}{2} \beta_1(\mu)+\gamma_6'(\mu)
+
+\frac{1}{2} \beta_2(\mu)+\gamma_8'(\mu)
+
+-\frac{1}{2} \beta_1(\mu)
+
+\gamma_1'(\mu)
+
+\alpha'(\mu)
+
+\frac{1}{2} \mu \beta_1'(\mu)+\gamma_5'(\mu)
+
+\gamma_7'(\mu)
+
+\gamma_3'(\mu)
+
+\gamma_4'(\mu)
+
+\gamma_2'(\mu)

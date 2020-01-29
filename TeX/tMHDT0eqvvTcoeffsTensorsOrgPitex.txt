@@ -1,0 +1,81 @@
+R_{\alpha\beta\gamma\delta}u^{\beta\gamma}u^{\nu\alpha}\Pi^{\mu\delta}
+
+R_{\alpha\beta\gamma\delta}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\mu\delta}
+
+H_{\alpha\beta\lambda}H_{\gamma\delta\rho}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}
+
+u^{\alpha\beta}\Pi^{\nu\gamma}\omega^{\mu\delta}H_{\alpha\gamma\delta}{}_{;\beta}
+
+H_{\gamma\delta\rho}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\alpha\lambda}{}_{;\beta}
+
+H_{\alpha\delta\rho}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\beta\lambda}{}_{;\gamma}
+
+u^{\nu\alpha}\Pi^{\gamma\delta}\Pi^{\mu\beta}H_{\alpha\beta\gamma}{}_{;\delta}
+
+u^{\nu\alpha}\Pi^{\mu\beta}\omega^{\gamma\delta}H_{\alpha\beta\gamma}{}_{;\delta}
+
+u^{\beta\gamma}u^{\nu\alpha}\Pi^{\lambda\rho}\Pi^{\mu\delta}u_{\beta\rho}{}_{;\gamma}u_{\alpha\lambda}{}_{;\delta}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\beta\rho}{}_{;\gamma}u_{\alpha\lambda}{}_{;\delta}
+
+H_{\alpha\gamma\rho}u^{\beta\gamma}u^{\nu\alpha}\Pi^{\lambda\rho}\Pi^{\mu\delta}u_{\beta\lambda}{}_{;\delta}
+
+H_{\alpha\gamma\rho}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\beta\lambda}{}_{;\delta}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\beta\lambda}{}_{;\alpha}u_{\gamma\rho}{}_{;\delta}
+
+u^{\nu\alpha}\Pi^{\gamma\delta}\Pi^{\mu\beta}u_{\alpha\gamma}{}_{;\beta}{}_{;\delta}
+
+u^{\nu\alpha}\Pi^{\gamma\delta}\Pi^{\mu\beta}u_{\alpha\beta}{}_{;\gamma}{}_{;\delta}
+
+u^{\nu\alpha}\Pi^{\mu\beta}\omega^{\gamma\delta}u_{\alpha\beta}{}_{;\gamma}{}_{;\delta}
+
+u^{\beta\gamma}u^{\nu\alpha}\Pi^{\lambda\rho}\Pi^{\mu\delta}u_{\beta\rho}{}_{;\gamma}u_{\alpha\delta}{}_{;\lambda}
+
+H_{\alpha\gamma\rho}\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\beta\delta}{}_{;\lambda}
+
+u^{\beta\gamma}u^{\nu\alpha}\Pi^{\lambda\rho}\Pi^{\mu\delta}u_{\beta\delta}{}_{;\gamma}u_{\alpha\lambda}{}_{;\rho}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\lambda\rho}\omega^{\mu\delta}u_{\alpha\lambda}{}_{;\beta}u_{\gamma\delta}{}_{;\rho}
+
+
+
+2 \gamma_1(\mu)+2 \gamma_5(\mu)+2 \gamma_3(\mu)
+
+2 \gamma_2(\mu)-\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}
+
+2 \beta_2'(\mu)+4 \alpha(\mu)
+
+-\frac{1}{2} \beta_1(\mu)
+
+-\beta_1(\mu)-2 \gamma_6'(\mu)-4 \gamma_3'(\mu)+2 \gamma_8'(\mu)+8 \gamma_2'(\mu)
+
+\beta_2(\mu)-\frac{\rho(\mu)\beta_1'(\mu)}{\rho'(\mu)}+\beta_1(\mu)-\frac{2 \rho(\mu)\gamma_3''(\mu)}{\rho'(\mu)}+\frac{2 \rho(\mu)\gamma_3'(\mu)\rho''(\mu)}{\rho'(\mu)^2}-4 \gamma_2'(\mu)
+
+-\beta_2(\mu)
+
+\frac{1}{2} \beta_1(\mu)
+
+-\mu \gamma_6'(\mu)+\gamma_6(\mu)+\gamma_3(\mu)+\mu \gamma_8'(\mu)-\gamma_8(\mu)+2 \mu \gamma_2'(\mu)-2 \gamma_2(\mu)
+
+\frac{2 \rho(\mu)\gamma_1'(\mu)}{\rho'(\mu)}-2 \gamma_1(\mu)-\gamma_6(\mu)+\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}-3 \gamma_3(\mu)+\frac{2 \rho(\mu)\gamma_4'(\mu)}{\rho'(\mu)}-2 \gamma_4(\mu)+\gamma_8(\mu)+4 \gamma_2(\mu)
+
+-\beta_2(\mu)+2 \gamma_6'(\mu)-2 \gamma_8'(\mu)-4 \gamma_2'(\mu)
+
+-\mu \beta_2'(\mu)+2 \beta_2(\mu)+\beta_1(\mu)
+
+\gamma_6(\mu)-\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}+\gamma_3(\mu)-\gamma_8(\mu)-2 \gamma_2(\mu)
+
+\gamma_6(\mu)-\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}+\gamma_3(\mu)-\gamma_8(\mu)-2 \gamma_2(\mu)
+
+-\gamma_6(\mu)-\gamma_3(\mu)+\gamma_8(\mu)+2 \gamma_2(\mu)
+
+2 \gamma_4(\mu)-2 \gamma_5(\mu)
+
+\mu \gamma_6'(\mu)-\gamma_6(\mu)+2 \mu \gamma_3'(\mu)-\gamma_3(\mu)-\mu \gamma_8'(\mu)+\gamma_8(\mu)-4 \mu \gamma_2'(\mu)+2 \gamma_2(\mu)
+
+\mu \beta_2'(\mu)-\beta_2(\mu)
+
+-\frac{2 \rho(\mu)\gamma_1'(\mu)}{\rho'(\mu)}+2 \gamma_1(\mu)-\frac{2 \rho(\mu)\gamma_5'(\mu)}{\rho'(\mu)}+2 \gamma_5(\mu)+\frac{\mu \rho(\mu)\gamma_3''(\mu)}{\rho'(\mu)}-\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}-\frac{\mu \rho(\mu)\gamma_3'(\mu)\rho''(\mu)}{\rho'(\mu)^2}+2 \gamma_3(\mu)+2 \mu \gamma_2'(\mu)-2 \gamma_2(\mu)
+
+2 \gamma_1(\mu)+2 \gamma_3(\mu)+2 \gamma_4(\mu)-2 \gamma_2(\mu)

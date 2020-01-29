@@ -1,0 +1,57 @@
+R_{\alpha\gamma\beta\delta}\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}
+
+R_{\alpha\gamma\beta\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\gamma\delta}
+
+H_{\alpha\gamma\lambda}H_{\beta\delta\rho}\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}
+
+H_{\beta\delta\rho}\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\gamma\lambda}{}_{;\alpha}
+
+\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\gamma\lambda}{}_{;\alpha}u_{\delta\rho}{}_{;\beta}
+
+H_{\beta\delta\rho}u^{\alpha\beta}u^{\gamma\delta}\Pi^{\mu\lambda}\Pi^{\nu\rho}u_{\alpha\lambda}{}_{;\gamma}
+
+H_{\beta\delta\rho}\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\alpha\lambda}{}_{;\gamma}
+
+u^{\alpha\beta}u^{\gamma\delta}\Pi^{\mu\lambda}\Pi^{\nu\rho}u_{\delta\rho}{}_{;\beta}u_{\alpha\lambda}{}_{;\gamma}
+
+\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\delta\rho}{}_{;\beta}u_{\alpha\lambda}{}_{;\gamma}
+
+u^{\alpha\beta}\Pi^{\mu\gamma}\Pi^{\nu\delta}u_{\alpha\delta}{}_{;\beta}{}_{;\gamma}
+
+\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\alpha\lambda}{}_{;\gamma}u_{\beta\rho}{}_{;\delta}
+
+\Pi^{\gamma\delta}\Pi^{\mu\alpha}\Pi^{\nu\beta}\omega^{\lambda\rho}u_{\beta\lambda}{}_{;\alpha}u_{\gamma\rho}{}_{;\delta}
+
+u^{\alpha\beta}u^{\gamma\delta}\Pi^{\mu\lambda}\Pi^{\nu\rho}u_{\alpha\lambda}{}_{;\beta}u_{\gamma\rho}{}_{;\delta}
+
+u^{\alpha\beta}\Pi^{\mu\gamma}\Pi^{\nu\delta}H_{\alpha\beta\delta}{}_{;\gamma}
+
+
+
+-\gamma_2(\mu)
+
+-\gamma_6(\mu)-\gamma_3(\mu)-\gamma_8(\mu)+\gamma_2(\mu)
+
+-2 \alpha(\mu)
+
+\beta_2(\mu)+2 \gamma_2'(\mu)
+
+-\gamma_8(\mu)
+
+-\beta_1(\mu)-2 \gamma_3'(\mu)-4 \mu \gamma_2''(\mu)+2 \gamma_2'(\mu)
+
+-\beta_2(\mu)
+
+-\gamma_1(\mu)+\gamma_6(\mu)-\gamma_4(\mu)+\gamma_8(\mu)-\gamma_2(\mu)
+
+-\gamma_6(\mu)-\gamma_3(\mu)+\gamma_8(\mu)-\mu \gamma_2'(\mu)+2 \gamma_2(\mu)
+
+-\gamma_6(\mu)-\gamma_3(\mu)-\gamma_8(\mu)-\mu \gamma_2'(\mu)+2 \gamma_2(\mu)
+
+\gamma_6(\mu)+\gamma_3(\mu)-2 \gamma_2(\mu)
+
+\frac{\rho(\mu)\gamma_6'(\mu)}{\rho'(\mu)}-\gamma_6(\mu)+\frac{\rho(\mu)\gamma_3'(\mu)}{\rho'(\mu)}-\gamma_3(\mu)+\frac{\rho(\mu)\gamma_8'(\mu)}{\rho'(\mu)}-\gamma_8(\mu)-\frac{\rho(\mu)\gamma_2'(\mu)}{\rho'(\mu)}+2 \gamma_2(\mu)
+
+-\gamma_1(\mu)-\gamma_5(\mu)+\mu \gamma_3'(\mu)-\gamma_3(\mu)+\mu^2 \gamma_2''(\mu)-\mu \gamma_2'(\mu)+\gamma_2(\mu)
+
+\gamma_2'(\mu)

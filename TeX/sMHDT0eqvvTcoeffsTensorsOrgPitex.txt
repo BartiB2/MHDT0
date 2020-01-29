@@ -1,0 +1,65 @@
+R_{\alpha\gamma\beta\delta}u^{\alpha\beta}\Pi^{\nu\gamma}\omega^{\mu\delta}
+
+H_{\beta\gamma\lambda}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\delta\rho}{}_{;\alpha}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\mu\delta}H_{\alpha\beta\delta}{}_{;\gamma}
+
+u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\delta}{}_{;\beta}u_{\lambda\rho}{}_{;\gamma}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\mu\delta}u_{\beta\delta}{}_{;\alpha}{}_{;\gamma}
+
+\Pi^{\beta\gamma}\Pi^{\nu\alpha}\omega^{\mu\delta}u_{\alpha\delta}{}_{;\beta}{}_{;\gamma}
+
+H_{\beta\lambda\rho}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\gamma}{}_{;\delta}
+
+\Pi^{\nu\alpha}\omega^{\gamma\delta}\omega^{\mu\beta}u_{\alpha\beta}{}_{;\gamma}{}_{;\delta}
+
+H_{\beta\gamma\rho}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\delta}{}_{;\lambda}
+
+u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\gamma}{}_{;\beta}u_{\delta\rho}{}_{;\lambda}
+
+u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\beta\delta}{}_{;\lambda}u_{\alpha\gamma}{}_{;\rho}
+
+u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\delta}{}_{;\gamma}u_{\beta\lambda}{}_{;\rho}
+
+H_{\alpha\beta\lambda}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\delta\rho}{}_{;\gamma}
+
+u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\delta}{}_{;\beta}u_{\gamma\rho}{}_{;\lambda}
+
+H_{\alpha\gamma\delta}H_{\beta\lambda\rho}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}
+
+H_{\beta\gamma\lambda}u^{\alpha\beta}\Pi^{\delta\lambda}\Pi^{\nu\gamma}\omega^{\mu\rho}u_{\alpha\delta}{}_{;\rho}
+
+
+
+\frac{1}{2} \beta_1(\mu)
+
+2 \mu \alpha'(\mu)-2 \alpha(\mu)
+
+-2 \alpha(\mu)
+
+\frac{1}{2} \beta_2(\mu)-\frac{1}{2} \mu \beta_2'(\mu)
+
+\frac{1}{2} \beta_2(\mu)
+
+-\frac{1}{2} \beta_2(\mu)
+
+\beta_2'(\mu)-2 \alpha(\mu)
+
+\frac{1}{2} \beta_1(\mu)
+
+2 \alpha(\mu)
+
+-\frac{1}{2} \beta_2(\mu)+\frac{\rho(\mu)\beta_1'(\mu)}{2 \rho'(\mu)}-\frac{1}{2} \beta_1(\mu)
+
+-\frac{1}{2} \beta_2(\mu)
+
+-\frac{1}{2} \beta_2(\mu)
+
+\frac{1}{2} \beta_2'(\mu)
+
+\frac{1}{2} \mu \beta_2'(\mu)
+
+-4 \alpha'(\mu)
+
+2 \mu \alpha'(\mu)

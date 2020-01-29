@@ -1,0 +1,16 @@
+\begin{align}
+& R_{\alpha\gamma\beta\delta}u^{\alpha\beta}u^{\gamma\delta} & R_{\alpha\gamma\beta\delta}\Pi^{\alpha\beta}\Pi^{\gamma\delta}\nonumber\\
+ & R_{\alpha\gamma\beta\delta}\Pi^{\alpha\beta}\omega^{\gamma\delta} & H_{\alpha\gamma\lambda}H_{\beta\delta\rho}\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nonumber\\
+ & H_{\beta\gamma\delta}u^{\beta\gamma}\Pi_{\alpha}{}^{\delta}\nabla^{\alpha}\mu & \Pi_{\alpha\beta}\nabla^{\alpha}\mu\nabla^{\beta}\mu\nonumber\\
+ & \omega_{\alpha\beta}\nabla^{\alpha}\mu\nabla^{\beta}\mu & \Pi_{\alpha\beta}\nabla^{\beta}\nabla^{\alpha}\mu\nonumber\\
+ & \omega_{\alpha\beta}\nabla^{\beta}\nabla^{\alpha}\mu & H_{\beta\delta\rho}u^{\alpha\beta}u^{\gamma\delta}\Pi^{\lambda\rho}\nabla_{\gamma}u_{\alpha\lambda}\nonumber\\
+ & H_{\beta\delta\rho}\Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\gamma}u_{\alpha\lambda} & u^{\alpha\beta}u^{\gamma\delta}\Pi^{\lambda\rho}\nabla_{\beta}u_{\delta\rho}\nabla_{\gamma}u_{\alpha\lambda}\nonumber\\
+ & \Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\beta}u_{\delta\rho}\nabla_{\gamma}u_{\alpha\lambda} & u^{\beta\gamma}\Pi_{\alpha}{}^{\delta}\nabla^{\alpha}\mu\nabla_{\gamma}u_{\beta\delta}\nonumber\\
+ & \Pi^{\beta\gamma}\omega_{\alpha}{}^{\delta}\nabla^{\alpha}\mu\nabla_{\gamma}u_{\beta\delta} & u^{\alpha\beta}\Pi^{\gamma\delta}\nabla_{\delta}H_{\alpha\beta\gamma}\nonumber\\
+ & u_{\alpha}{}^{\beta}\Pi^{\gamma\delta}\nabla^{\alpha}\mu\nabla_{\delta}u_{\beta\gamma} & \Pi_{\alpha}{}^{\beta}\omega^{\gamma\delta}\nabla^{\alpha}\mu\nabla_{\delta}u_{\beta\gamma}\nonumber\\
+ & \Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\gamma}u_{\alpha\lambda}\nabla_{\delta}u_{\beta\rho} & u^{\alpha\beta}u^{\gamma\delta}\Pi^{\lambda\rho}\nabla_{\beta}u_{\alpha\lambda}\nabla_{\delta}u_{\gamma\rho}\nonumber\\
+ & \Pi^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\beta}u_{\alpha\lambda}\nabla_{\delta}u_{\gamma\rho} & u^{\alpha\beta}\Pi^{\gamma\delta}\nabla_{\delta}\nabla_{\beta}u_{\alpha\gamma}\nonumber\\
+ & \Pi^{\alpha\beta}\omega^{\gamma\delta}\nabla_{\delta}\nabla_{\beta}u_{\alpha\gamma} & H_{\beta\delta\rho}u^{\alpha\beta}\Pi^{\gamma\delta}\Pi^{\lambda\rho}\nabla_{\lambda}u_{\alpha\gamma}\nonumber\\
+ & \Pi^{\alpha\beta}\omega^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\delta}u_{\alpha\gamma}\nabla_{\rho}u_{\beta\lambda} & H_{\alpha\beta\delta}u^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\rho}u_{\gamma\lambda}\nonumber\\
+ & u^{\alpha\beta}\Pi^{\gamma\delta}\omega^{\lambda\rho}\nabla_{\beta}u_{\alpha\gamma}\nabla_{\rho}u_{\delta\lambda}
+\end{align}
